@@ -1,3 +1,7 @@
+"""
+Catalog of fixtures
+"""
+
 import pytest
 import pandas as pd
 import wandb
